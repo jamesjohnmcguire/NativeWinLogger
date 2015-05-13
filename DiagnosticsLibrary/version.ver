@@ -1,0 +1,8 @@
+
+#define VERSION_MAJOR			1
+#define VERSION_MINOR			0
+#define VERSION_BUILD			121
+#define VERSION_QFE				0
+
+#define VERSION_BUILD_DATE		"01/10/2015"
+#define VERSION_BUILD_TIME		"14:50:55UTC"
